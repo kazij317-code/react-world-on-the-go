@@ -1,0 +1,13 @@
+/* (4) then in Countries.jsx file*/
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+/* 33_8(12) */
+.visited-flags-container img{
+    width: 150px;
+    height: 90px;
+    margin-right: 10px;
+}
